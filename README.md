@@ -2,7 +2,7 @@
 
 
 
-### Part 1: Deep learning - Evolution of DL, Getting the Platform Setup
+### Part 1: Deep learning - Evolution of DL, Pre-read fun - Stories, Personalities, and Exciting Applications
 
 http://www.hpc.lsu.edu/training/weekly-materials/2016-Fall/machine_learning_qb2_fall_2016.pdf ( Page 1 to Page 23 )
 
