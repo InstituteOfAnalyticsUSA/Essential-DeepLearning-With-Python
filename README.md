@@ -8,11 +8,16 @@ http://www.hpc.lsu.edu/training/weekly-materials/2016-Fall/machine_learning_qb2_
 
 http://cs229.stanford.edu/materials/CS229-DeepLearning.pdf 
 
+### Part 1 B: Machine Learning, Deep learning, AI - Executive guides
+
 https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/an-executives-guide-to-machine-learning 
 
 https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/demystifying-ai-and-machine-learning-for-executives 
 
-### Part 1 B: Python IDE 
+AI to AGI (Artificial General Intelligence) - https://www.mckinsey.com/business-functions/operations/our-insights/an-executive-primer-on-artificial-general-intelligence
+
+
+### Part 1 C: Python IDE 
 
 Python IDE: Anaconda and Python 3.7 - Downlowd python 3.7 from https://www.python.org. Download individual version of Anaconda from https://www.anaconda.com/products/individual  
 The individual version of Anaconda IDE is free.
