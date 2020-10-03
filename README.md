@@ -15,7 +15,7 @@ The individual version of Anaconda IDE is free.
 Follow directions on installing python 3.7 and anaconda (IDE).  This provides the Jupyter notebook facility also which we may use in addition to the GPU setup within Ubuntu Linux setup.   These setups are possible with the Windows OS also, but I will be using only Ubuntu for the entire course. 
 
 The key book we will be using in this "Reading and Doing Lab work Series" is 
-Deep learning with Python, by Fracois Chollett.  Francois Chollet is our guru providing extensive notes, and we are indebted for him, because copy and paste is so easy, we should not forget that most of the material I will cover are from this book to a level sometimes upto the dotting “i”s and crossing the “t”s. Buy the book, if you want to master this class, and it is a great resource. 
+Deep learning with Python, by Fracois Chollett.  Francois Chollet is our guru providing extensive notes, and we are indebted for him, because copy and paste is so easy, we should not forget that most of the material I will cover are from this book to a level sometimes upto the dotting “i”s and crossing the “t”s. Buy the book, if you want to master this class, and it is a great resource. I have this book in my library. I also have his book on 'Deep Learning with R'. 
 
 https://livebook.manning.com/book/deep-learning-with-python/chapter-1/ 
 
