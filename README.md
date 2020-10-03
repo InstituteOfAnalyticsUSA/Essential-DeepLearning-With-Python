@@ -94,9 +94,9 @@ Boltzmann machine (BM) and Resctricted BM ( RBM)- Edwin Chen Blog (Key and it is
 
 http://blog.echen.me/2011/07/18/introduction-to-restricted-boltzmann-machines/ 
 https://github.com/echen/restricted-boltzmann-machines 
-A Practical guide to training restricted Boltzmann machines, by Geoffrey Hinton.
+"""A Practical guide to training restricted Boltzmann machines, by Geoffrey Hinton.
 A talk by Andrew Ng on Unsupervised Feature Learning and Deep Learning.
 Restricted Boltzmann Machines for Collaborative Filtering. I found this paper hard to read, but it's an interesting application to the Netflix Prize.
-Geometry of the Restricted Boltzmann Machine. A very readable introduction to RBMs, "starting with the observation that its Zariski closure is a Hadamard power of the first secant variety of the Segre variety of projective lines". (I kid, I kid.)
+Geometry of the Restricted Boltzmann Machine. A very readable introduction to RBMs, "starting with the observation that its Zariski closure is a Hadamard power of the first secant variety of the Segre variety of projective lines". (I kid, I kid.)"""
 
 
