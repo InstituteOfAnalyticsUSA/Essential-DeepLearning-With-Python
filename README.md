@@ -2,12 +2,17 @@
 
 
 
-### Part 1: Deep learning - Evolution of DL, Pre-read fun - Stories, Personalities, and Exciting Applications
+### Part 1 A: Deep learning - Evolution of DL, Pre-read fun - Stories, Personalities, and Exciting Applications
 
 http://www.hpc.lsu.edu/training/weekly-materials/2016-Fall/machine_learning_qb2_fall_2016.pdf ( Page 1 to Page 23 )
 
 http://cs229.stanford.edu/materials/CS229-DeepLearning.pdf 
 
+https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/an-executives-guide-to-machine-learning 
+
+https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/demystifying-ai-and-machine-learning-for-executives 
+
+### Part 1 B: Python IDE 
 
 Python IDE: Anaconda and Python 3.7 - Downlowd python 3.7 from https://www.python.org. Download individual version of Anaconda from https://www.anaconda.com/products/individual  
 The individual version of Anaconda IDE is free.
