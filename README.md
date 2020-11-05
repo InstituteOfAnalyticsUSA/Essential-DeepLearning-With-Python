@@ -42,6 +42,9 @@ Python jupyter notebooks from the book are available here: https://github.com/fc
 - Tensors and tensor operations
 - How neural networks learn via backpropagation and gradient descent
 
+The following PPT will be used for both Module 2 and Module 3
+
+
 
 ### Part 3: Basics of neural networks as foundations for Deep Learning Networks 
 
