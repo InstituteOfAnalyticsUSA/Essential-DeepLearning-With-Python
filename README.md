@@ -44,7 +44,7 @@ Python jupyter notebooks from the book are available here: https://github.com/fc
 
 The following PPT will be used for both Module 2 and Module 3
 
-
+https://github.com/InstituteOfAnalyticsUSA/Essential-DeepLearning-With-Python/blob/main/How%20neurons%20compute...%20and%20trigger%20decisions%20-%20Neural%20Networks%20Introduction%20.pptx 
 
 ### Part 3: Basics of neural networks as foundations for Deep Learning Networks 
 
