@@ -69,6 +69,8 @@ https://www.cs.tau.ac.il/~dcor/Graphics/pdf.slides/YY-Deep%20Learning.pdf
 - Tackling overfitting
 - The universal workflow for approaching machine-learning problems
 
+https://youtu.be/GVRIk_hhsuc   
+
 ### Part 5: Deep learning for computer vision
 
 - Understanding convolutional neural networks (convnets)
