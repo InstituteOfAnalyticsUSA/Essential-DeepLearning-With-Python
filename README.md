@@ -65,11 +65,14 @@ https://www.cs.tau.ac.il/~dcor/Graphics/pdf.slides/YY-Deep%20Learning.pdf
 - Forms of machine learning beyond classification and regression
 - Formal evaluation procedures for machine-learning models
 - Preparing data for deep learning
-- Feature engineering
-- Tackling overfitting
+- Feature engineering (It is not just variable transformation; it is deeper than that, Feature definition depends on Data Structure, Data Type, and Data Format in addition to transformation, and special context sensitive measures that help achieve the prediction using our mathematical and statistical principles, computational and algorithmic principles)
+- Tackling overfitting using the following concepts (Train/Validate/Test, Cross-Validation, and Bias-Variance Trade off)
 - The universal workflow for approaching machine-learning problems
 
+The Presentation deck in PDF presented in the following Youtube video - 
+
 https://youtu.be/GVRIk_hhsuc   
+
 
 ### Part 5: Deep learning for computer vision
 
