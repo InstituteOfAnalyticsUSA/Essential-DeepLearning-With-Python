@@ -69,7 +69,7 @@ https://www.cs.tau.ac.il/~dcor/Graphics/pdf.slides/YY-Deep%20Learning.pdf
 - Tackling overfitting using the following concepts (Train/Validate/Test, Cross-Validation, and Bias-Variance Trade off)
 - The universal workflow for approaching machine-learning problems
 
-The Presentation deck in PDF presented in the following Youtube video - 
+The Presentation deck in PDF presented in the following Youtube video - https://github.com/InstituteOfAnalyticsUSA/Essential-DeepLearning-With-Python/blob/main/Machine%20Learning%20Foundations_MeetUp_17NOV2020.pptx 
 
 https://youtu.be/GVRIk_hhsuc   
 
