@@ -61,7 +61,7 @@ https://www.cs.tau.ac.il/~dcor/Graphics/pdf.slides/YY-Deep%20Learning.pdf
 
 ### Part 4:  Machine Learning foundations
 
-- Setting up a deep-learning workstation
+- Setting up a deep-learning workstation - 
 
 - Forms of machine learning beyond classification and regression
 - Formal evaluation procedures for machine-learning models
