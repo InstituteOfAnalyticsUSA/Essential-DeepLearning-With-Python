@@ -62,7 +62,8 @@ https://www.cs.tau.ac.il/~dcor/Graphics/pdf.slides/YY-Deep%20Learning.pdf
 ### Part 4:  Machine Learning foundations
 
 - Setting up a deep-learning workstation - https://youtu.be/tutZppdMU5E 
-- The commands text file - 
+- The commands text file - https://github.com/InstituteOfAnalyticsUSA/Essential-DeepLearning-With-Python/blob/main/aws%20jupyter%20configuration%20commands.txt 
+- Presentation deck - https://github.com/InstituteOfAnalyticsUSA/Essential-DeepLearning-With-Python/blob/main/Deep%20Learning%20Setup%20in%20AWS%20Environment.pdf 
 
 - Forms of machine learning beyond classification and regression
 - Formal evaluation procedures for machine-learning models
