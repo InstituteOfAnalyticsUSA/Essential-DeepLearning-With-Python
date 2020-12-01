@@ -2,13 +2,13 @@
 
 
 
-### Part 1 A: Deep learning - Evolution of DL, Pre-read fun - Stories, Personalities, and Exciting Applications
+### Chapter 1 A: Deep learning - Evolution of DL, Pre-read fun - Stories, Personalities, and Exciting Applications
 
 http://www.hpc.lsu.edu/training/weekly-materials/2016-Fall/machine_learning_qb2_fall_2016.pdf ( Page 1 to Page 23 )
 
 http://cs229.stanford.edu/materials/CS229-DeepLearning.pdf 
 
-### Part 1 B: Machine Learning, Deep learning, AI - Executive guides
+### Chapter 1 B: Machine Learning, Deep learning, AI - Executive guides
 
 https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/an-executives-guide-to-machine-learning 
 
@@ -17,7 +17,7 @@ https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-i
 AI to AGI (Artificial General Intelligence) - https://www.mckinsey.com/business-functions/operations/our-insights/an-executive-primer-on-artificial-general-intelligence
 
 
-### Part 1 C: Python IDE 
+### Chapter 1 C: Python IDE 
 
 Python IDE: Anaconda and Python 3.7 - Downlowd python 3.7 from https://www.python.org. Download individual version of Anaconda from https://www.anaconda.com/products/individual  
 The individual version of Anaconda IDE is free.
@@ -36,7 +36,7 @@ Python jupyter notebooks from the book are available here: https://github.com/fc
 - Timeline of the development of machine learning
 - Key factors behind deep learning’s rising popularity and future potential
 
-### Part 2:  Mathematical building blocks of deep learning - The tensors, derivative of derivative of derivative of … (internal compute quantity of essense of back propagating the errors), minimizing error (loss) function, gradient descent and stochastic gradient descent 
+### Chapter 2:  Mathematical building blocks of deep learning - The tensors, derivative of derivative of derivative of … (internal compute quantity of essense of back propagating the errors), minimizing error (loss) function, gradient descent and stochastic gradient descent 
 
 - A first example of a neural network
 - Tensors and tensor operations
@@ -46,7 +46,7 @@ The following PPT will be used for both Module 2 and Module 3
 
 https://github.com/InstituteOfAnalyticsUSA/Essential-DeepLearning-With-Python/blob/main/How%20neurons%20compute...%20and%20trigger%20decisions%20-%20Neural%20Networks%20Introduction%20.pptx 
 
-### Part 3: Basics of neural networks as foundations for Deep Learning Networks 
+### Chapter 3: Basics of neural networks as foundations for Deep Learning Networks 
 
 
 - Core components of neural networks
@@ -59,7 +59,7 @@ https://indico.cern.ch/event/689516/contributions/3028020/attachments/1680198/26
 https://www.cs.tau.ac.il/~dcor/Graphics/pdf.slides/YY-Deep%20Learning.pdf 
 
 
-### Part 4:  Machine Learning foundations
+### Chapter 4:  Machine Learning foundations
 
 - Setting up a deep-learning workstation - https://youtu.be/tutZppdMU5E 
 - The commands text file - https://github.com/InstituteOfAnalyticsUSA/Essential-DeepLearning-With-Python/blob/main/aws%20jupyter%20configuration%20commands.txt 
@@ -77,7 +77,7 @@ The Presentation deck in PDF presented in the following Youtube video - https://
 https://youtu.be/GVRIk_hhsuc   
 
 
-### Part 5: Deep learning for computer vision
+### Chapter 5: Deep learning for computer vision
 
 - Understanding convolutional neural networks (convnets)
 - Using data augmentation to mitigate overfitting
@@ -85,20 +85,20 @@ https://youtu.be/GVRIk_hhsuc
 - Fine-tuning a pre-trained convnet
 - Visualizing what convnets learn and how they make classification decisions
 
-### Part 6: Deep learning for text and sequences
+### Chapter 6: Deep learning for text and sequences
 
 - Preprocessing text data into useful representations
 - Working with recurrent neural networks
 - Using 1D convnets for sequence processing
 
-### Part 7: Advanced deep learning 
+### Chapter 7: Advanced deep learning 
 
 - The Keras functional API
 - Using Keras callbacks
 - Working with the TensorBoard visualization tool
 - Important best practices for developing state-of-the-art models
 
-### Part 8:   Generative deep learning 
+### Chapter 8:   Generative deep learning 
 
 - Text generation with LSTM
 - Implementing DeepDream
@@ -107,7 +107,7 @@ https://youtu.be/GVRIk_hhsuc
 - Understanding generative adversarial networks
 
 
-### Part 9: Deep learning in Recommendation engine - Page 25 to Page 37
+### Chapter 9: Deep learning in Recommendation engine - Page 25 to Page 37
 
 http://www.hpc.lsu.edu/training/weekly-materials/2016-Fall/machine_learning_qb2_fall_2016.pdf 
 
