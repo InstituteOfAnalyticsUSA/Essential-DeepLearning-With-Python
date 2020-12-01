@@ -51,7 +51,6 @@ https://github.com/InstituteOfAnalyticsUSA/Essential-DeepLearning-With-Python/bl
 
 - Core components of neural networks
 - An introduction to Keras
-- Setting up a deep-learning workstation
 - Using neural networks to solve basic classification and regression problems
 http://helper.ipam.ucla.edu/publications/eltut/eltut_14764.pdf 
  
@@ -61,6 +60,8 @@ https://www.cs.tau.ac.il/~dcor/Graphics/pdf.slides/YY-Deep%20Learning.pdf
 
 
 ### Part 4:  Machine Learning foundations
+
+- Setting up a deep-learning workstation
 
 - Forms of machine learning beyond classification and regression
 - Formal evaluation procedures for machine-learning models
